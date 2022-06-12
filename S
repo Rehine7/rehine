@@ -1,0 +1,14 @@
+APIKEY LIST:
+#https://exe.io/api?api=72e0350c71efe488fee0e8ff0a6a66a442ce0b4d&url=<
+#https://safelinkduit.com/api?api=991f4d7b66c97e02bf9e0642ff9c94ea9117ee5d&url=<
+
+
+
+CONTROLC LIST:
+*http://controlc.com/e53d2f12<
+*http://controlc.com/9b4ba823<
+*http://controlc.com/1d4e576a<
+*http://controlc.com/54b6b2dd<
+*http://controlc.com/a6026d40<
+*http://controlc.com/0c80aba0<
+*http://controlc.com/2d170e30<
